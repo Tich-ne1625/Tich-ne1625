@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Tich%20Thu&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=WELCOME%20TO%20MY%20HOME&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋 I'm Just Tichj</h1>
 
